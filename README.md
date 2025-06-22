@@ -16,3 +16,14 @@ Alat yang saya pakai antara lain:
 11.   dan tentu saja kabel
 
 Cara kerja alat ini adalah kita bisa mengendalikan dan memonitor perangkat elektronik rumah dari jarak jauh menggunakan koneksi internet sehingga pemilik rumah dapat mengontrok peralatan elektronik rumah dari mana saja tanpa harus pulang dan meminta bantuan tetangga
+
+![b7d59c69-c791-45b6-b0fc-47f8fafffbaf](https://github.com/user-attachments/assets/de4b60ba-ae53-410d-b5e2-9e7f507d3959)
+
+
+![b39eefb8-ecfe-4d6d-8a6f-2ef6492c04ce](https://github.com/user-attachments/assets/f37ba9b8-a707-4af1-9a6d-0c8e6aeef745)
+
+
+
+
+
+
