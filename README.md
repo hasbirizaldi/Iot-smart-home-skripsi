@@ -15,6 +15,7 @@ Alat yang saya pakai antara lain:
 10.  Mobile App yang say buat sendiri dengan kodular
 11.   dan tentu saja kabel
 
+Alat ini saya buat untuk memudahkan penghuni rumah saat berpergian keluar kota sehingga tidak bisa mengontrol peralatan penerangan di rumah.
 Cara kerja alat ini adalah kita bisa mengendalikan dan memonitor perangkat elektronik rumah dari jarak jauh menggunakan koneksi internet sehingga pemilik rumah dapat mengontrok peralatan elektronik rumah dari mana saja tanpa harus pulang dan meminta bantuan tetangga
 
 ![b7d59c69-c791-45b6-b0fc-47f8fafffbaf](https://github.com/user-attachments/assets/de4b60ba-ae53-410d-b5e2-9e7f507d3959)
